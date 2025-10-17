@@ -215,7 +215,7 @@ Options -Indexes
    Tipo: A
    Nome: @
    Valor: (IP fornecido pelo InfinityFree)
-   
+
    Tipo: CNAME
    Nome: www
    Valor: seusite.infinityfreeapp.com
