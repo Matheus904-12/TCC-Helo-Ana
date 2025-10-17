@@ -1,6 +1,6 @@
 # 🎓 PositiveSense - Plataforma de Inclusão Escolar
 
-![PositiveSense](img/download%202.png)
+![PositiveSense](img/mascote.png)
 
 ## 📋 Sobre o Projeto
 
